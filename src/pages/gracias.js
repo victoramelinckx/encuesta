@@ -76,7 +76,7 @@ const Gracias = () => {
               className="p-3 px-8 text-lg text-light/90 font-normal mb-4 
               flex items-center justify-center md:!text-base sm:!text-sm"
             >
-              No olvides enviar el enlace a colegas y amigos empresarios. Muy pronto recibirás un informe exclusivo con estrategias e insights para impulsar tu éxito empresarial. 
+              No olvides enviar el enlace a colegas y amigos empresarios. Muy pronto recibirás un informe exclusivo con insights para impulsar tu éxito empresarial. 
             </div>
             <GetInTouch onSubmitEmail={handleEmailSubmitted} />
           </div>
