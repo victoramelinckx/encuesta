@@ -34,7 +34,7 @@ export default function LandingTwo() {
                 className="p-3 px-8 text-lg text-light/90 font-normal mb-4 
                flex items-center justify-center md:!text-base sm:!text-sm-custom"
               >
-                ¿Eres dueño de una compañia o un un líder clave en tu trabajo? ¡Nos encantaría conocer tu opinión! Esta breve encuesta te ayudará a reflexionar sobre los principales desafíos que enfrenta tu negocio. Además, al completarse el periodo de encuesta, recibirás un informe exclusivo con insights acerca de estos obstáculos. ¡Toma menos de 2 minutos!
+                ¿Eres dueño de una compañia o un líder clave en tu trabajo? ¡Nos encantaría conocer tu opinión! Esta breve encuesta te ayudará a reflexionar sobre los principales desafíos que enfrenta tu negocio. Además, al completarse el periodo de encuesta, recibirás un informe exclusivo con insights acerca de estos obstáculos. ¡Toma menos de 2 minutos!
               </div>
           </div>
         </div>
